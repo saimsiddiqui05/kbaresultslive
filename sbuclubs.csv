@@ -1,0 +1,168 @@
+Club Name,SBU District,Club Reference
+Afton,Ayrshire District,A/AFT
+Ardeer,Ayrshire District,A/ARD
+Bruce,Ayrshire District,A/BRU
+Doon,Ayrshire District,A/DOO
+Greenan,Ayrshire District,A/GRE
+Kirklee,Ayrshire District,A/KKL
+Kilmarnock,Ayrshire District,A/KLM
+Kilwinning,Ayrshire District,A/KLW
+Kyle,Ayrshire District,A/KYL
+Largs,Ayrshire District,A/LAR
+Newton Stewart,Ayrshire District,A/NST
+Portland,Ayrshire District,A/POR
+Prestwick,Ayrshire District,A/PRE
+Prestwick Riggs,Ayrshire District,A/PRI
+Savoy,Ayrshire District,A/SAV
+St Leonards,Ayrshire District,A/STL
+Troon,Ayrshire District,A/TRO
+Annandale,Central District,C/ANN
+Arbroath,Central District,C/ARB
+Brechin,Central District,C/BRE
+Crieff,Central District,C/CRI
+Dundee,Central District,C/DUN
+East Fife League,Central District,C/EFL
+Forfar,Central District,C/FOR
+Glenrothes,Central District,C/GLE
+Kirkcaldy,Central District,C/KRK
+Leven,Central District,C/LEV
+Montrose,Central District,C/MON
+Perthshire League,Central District,C/PEL
+Perth,Central District,C/PER
+Stepping-Stone,Central District,C/SST
+St Andrews,Central District,C/STA
+49ers,East District,E/49R
+Acolytes,East District,E/ACL
+Alloa,East District,E/ALL
+Alva,East District,E/ALV
+Berwick,East District,E/BER
+Bowhouse,East District,E/BHE
+Borderers,East District,E/BOR
+Bathgate,East District,E/BTH
+Carlton,East District,E/CAR
+Carlton Connection,East District,E/CCO
+Colinton Castle,East District,E/COC
+Comiston,East District,E/COM
+Craigleith,East District,E/CRA
+Denny and Dunipace,East District,E/DDU
+Dunbar,East District,E/DNB
+Dunfermline,East District,E/DNF
+Duns,East District,E/DNS
+Dollar,East District,E/DOL
+Falcon,East District,E/FLC
+Falkirk,East District,E/FLK
+Fearless,East District,E/FLS
+Grosvenor Aces,East District,E/GRO
+Gullane,East District,E/GUL
+Hawick,East District,E/HAW
+Hermitage,East District,E/HER
+Iconoclasts,East District,E/ICO
+Jedburgh,East District,E/JED
+Kelso,East District,E/KEL
+Linlithgow,East District,E/LIN
+Livingston,East District,E/LIV
+Longniddry,East District,E/LON
+Marmion,East District,E/MAR
+New Melville,East District,E/MEL
+Merchiston,East District,E/MER
+Melbas,East District,E/MLB
+Nomads,East District,E/NOM
+Ormiston,East District,E/ORM
+Peebles,East District,E/PEB
+Phoenix,East District,E/PHO
+Penicuik,East District,E/PNC
+Pentland,East District,E/PNT
+Pied Piper,East District,E/PPR
+Raiders,East District,E/RAI
+Randolph,East District,E/RAN
+Royal Scots,East District,E/RSC
+Ratten ,East District,E/RTT
+Scramblers,East District,E/SCR
+Tillicoultry,East District,E/TIL
+Tryst,East District,E/TRY
+Waverley,East District,E/WAV
+West Calder,East District,E/WCA
+Cairngorm,Highland District,H/CAI
+Caledonian,Highland District,H/CAL
+Compass,Highland District,H/COM
+Dingwall,Highland District,H/DIN
+Elgin Wednesday,Highland District,H/ELW
+Forres,Highland District,H/FOR
+Fort William,Highland District,H/FWI
+Grantown-on-Spey,Highland District,H/GRA
+Highland,Highland District,H/HIG
+Hopeman,Highland District,H/HOP
+Inverness,Highland District,H/INV
+Kelsey,Highland District,H/KEL
+Lossiemouth,Highland District,H/LOS
+Moray,Highland District,H/MOR
+Ness,Highland District,H/NES
+Nairn,Highland District,H/NRN
+Speymouth,Highland District,H/SPE
+Stornoway,Highland District,H/STO
+Sunninghill,Highland District,H/SUN
+Tain,Highland District,H/TAI
+Aberdeen,North District,N/ABE
+Aboyne,North District,N/ABO
+Alford,North District,N/ALF
+Bon Accord,North District,N/BNA
+Banchory & District,North District,N/BND
+Cults,North District,N/CUL
+Ellon,North District,N/ELL
+Fraserburgh,North District,N/FRG
+Fish Trade ,North District,N/FTR
+Huntly,North District,N/HUN
+Lerwick,North District,N/LER
+Northern Arts,North District,N/NAR
+Pecten,North District,N/PEC
+Phoenix,North District,N/PHO
+Torphins,North District,N/TOR
+Turriff,North District,N/TUR
+Woodend,North District,N/WOD
+Annan,South District,S/ANN
+Buccleuch,South District,S/BUC
+Dalbeattie,South District,S/DAL
+Kirkcudbright,South District,S/KIR
+Loreburn,South District,S/LOR
+Solway,South District,S/SOL
+Stewartry,South District,S/STE
+Thornhill,South District,S/THO
+Acorn,West District,W/ACO
+Antonine,West District,W/ANT
+Biggar,West District,W/BGG
+Bishopbriggs,West District,W/BIS
+Bishopton,West District,W/BSH
+Buchanan,West District,W/BUC
+Cawder,West District,W/CAW
+Cumbernauld,West District,W/CUM
+Dunoon,West District,W/DUN
+East Kilbride,West District,W/EKL
+Fifty,West District,W/FFT
+Fort Matilda,West District,W/FMA
+Glasgow Bridge Centre,West District,W/GBC
+GUU,West District,W/GUU
+Helensburgh,West District,W/HEL
+Hamilton,West District,W/HML
+Johnstone,West District,W/JOH
+Killearn,West District,W/KLL
+Kilmacolm,West District,W/KLM
+Kilmun Bridge Club,West District,W/KLN
+Kilsyth,West District,W/KLS
+Kirkintilloch,West District,W/KRK
+Lanark,West District,W/LAN
+Lochgilphead Tuesday,West District,W/LGT
+Glasgow Maccabi,West District,W/MAC
+Milngavie & Bearsden,West District,W/MIB
+Oban,West District,W/OBA
+Ogilvie,West District,W/OGL
+Phoenix(W),West District,W/PHO
+Powmill,West District,W/POW
+Rothesay,West District,W/RTH
+Strathblane & Blanefield,West District,W/SBL
+St Andrew,West District,W/STA
+St Josephs,West District,W/STJ
+Strathaven Golf Club,West District,W/STR
+Stirling & Union,West District,W/STU
+Victoria,West District,W/VIC
+Western,West District,W/WES
+,,

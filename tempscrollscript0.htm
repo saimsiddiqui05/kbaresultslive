@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Language" content="en" />
+
+<SCRIPT Language="JavaScript">
+
+
+var colours = [  '#FFFFFF'];
+var linelens = [53];
+var nSpeed = 20
+var nScroll = 1
+var nWaitS = 7500
+var nWaitE = 15000
+var pages = [
+'<pre><b><font  color="black">KG Members Weekly Pairs\nRound 5 of 5 : All boards played at 9:21 pm\n  1   7   Shahin Iqbal & Anwar Gheewala       69.00  \n  2   6   Fatima Raza & Anwar Kizilbash       64.50  \n  3   5   Ather Saeed & Jalal Khan            53.00  \n  4=  2   Sattar Cochinwala & Usman A. Ansari 49.00  \n  4=  9   Anushae Alam & Naseem Arzoo         49.00  \n  6   1   Kaleem Baakza & Habib ur Rehman Sh. 46.50  \n  7   3   Tufail Shaikh & Rubina Hai          45.00  \n  8  10   Osman Ali Baig & Muhammad Jaffer    43.50  \n  9   8   Fazle Ahmad & Salim Chamdia         42.00  \n 10   4   Ismail Ahmed & Feroze Khandwala     38.50  \n</font></b></pre>'
+];
+
+var fSize   = '30px';
+var nScrollup=1000
+var yPosition = 0;
+var yDir = 0;
+var yTop = 0;
+var yStart = 0;
+var page_curr = 0
+var isIE = 0;
+
+function scrollbegin()
+{
+   document.body.style.background = colours[0];
+
+   document.body.style.fontSize = Math.round(parent.document.body.clientWidth/linelens[0]*1.6 )+"px";
+   Frame.style.height = parent.document.body.clientHeight;
+   Frame1.style.height = parent.document.body.clientHeight;
+   Frame.style.width = parent.document.body.clientWidth - 2;
+   Frame1.style.width = parent.document.body.clientWidth - 2;
+   Frame1.style.background = colours[0];
+	var ua = navigator.userAgent.toLowerCase();
+	isIE = ((ua.indexOf("msie") != -1) && (ua.indexOf("opera") == -1) && (ua.indexOf("webtv") == -1));
+
+ 	document.getElementById( 'Frame1' ).innerHTML = pages[0];
+   yDocMax = parent.document.body.scrollHeight
+   parent.setTimeout("scrollstart()", nWaitS )
+}
+
+function scrollstart()
+{
+	parent.scroll (0, 0);
+	yStart = 0;
+	nDir = nScroll;
+   parent.setTimeout("scrolldown()", nWaitS )
+}
+
+function scrolldown()
+{
+// check whether scrolling has reached the end
+   var yWindowMax = document.body.scrollTop;
+    if ( yWindowMax == 0)
+    {
+       if ( window.pageYOffset )
+       {
+           yWindowMax = window.pageYOffset;
+        }
+       else
+       {
+          yWindowMax = (document.body.parentElement) ? document.body.parentElement.scrollTop : 0;
+        }
+    }
+
+
+   if ( ( yStart > 0 ) && ( yWindowMax == yTop ) )
+   {
+      if ( ( yTop > 0 ) && ( yPosition > 0 ) )
+      {
+       	nDir = 0 - nScrollup;	
+         yTop = 1;
+         parent.setTimeout ( "scrolldown()", nWaitE)
+        return;
+      }
+      else
+      {
+         yPosition = 0;
+   	   parent.scroll ( 0, 0 )
+         parent.setTimeout ( "scrollend()", 1)
+         return;
+      }
+   }
+   yStart = 1;
+   yPosition = yPosition + nDir;
+   parent.scroll ( 0, yPosition )
+   yTop = yWindowMax
+   parent.setTimeout ( "scrolldown()", nSpeed )
+}
+
+function scrollend()
+{
+   page_curr = page_curr + 1;
+   var nextpage = "wreload()";
+   if ( isIE )
+   {
+      Frame.filters[0].Apply();
+   }
+   if ( pages[page_curr] )
+   {
+      nextpage = "scrollstart ( )";
+   }
+   else
+   {
+      page_curr = 0;
+   }
+  	document.getElementById( 'Frame1' ).innerHTML = pages[page_curr];
+   document.body.style.fontSize = Math.round(parent.document.body.clientWidth/linelens[page_curr]*1.6 )+"px";
+   document.body.style.background = colours[page_curr];
+   Frame1.style.background = colours[page_curr];
+   if ( isIE )
+   {
+      Frame.filters[0].Play();
+   }
+   parent.setTimeout ( nextpage, nWaitS)
+}
+
+function showtimer()
+{
+   var nextpage = "wreload()";
+   parent.setTimeout ( nextpage, nWaitT)
+}
+
+function wreload()
+{
+	window.location.reload()
+}
+</SCRIPT>
+<HTML>
+
+
+<BODY onLoad="scrollbegin()">
+<Style>p {font-Size:50pt}</Style>
+<div id="Frame" style="position:absolute; top: 0px; left: 0px; width: 200px; height:200px; filter:progid:DXImageTransform.Microsoft.RandomDissolve() ">
+<div id="Frame1" style="position:absolute; top:0px; left:0px; width:200px; height:200px; " align="left">
+<b><font  color="black">
+<PRE id="Frame1x">               Loading
+</PRE>
+</font> </b>
+</div>
+</div>
+
+</html>

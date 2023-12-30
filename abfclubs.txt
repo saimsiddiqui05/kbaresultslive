@@ -1,0 +1,349 @@
+Version,1,03Feb14
+Bridge Federation Of The Act,ACT,1801
+Canberra!,ACT,1851
+Capital!,ACT,1855
+Cootamundra!,NSW,1858
+Monaro!,NSW,1863
+South Canberra!,ACT,1893
+New South Wales Bridge Association,NSW,2001
+Nswba State Mp Secretary,nsw,2002
+Berry!,NSW,2004
+Commercial Club! Albury,NSW,2005
+Sydney Bridge Centre,NSW,2006
+Bega Valley!,NSW,2009
+Armidale!,NSW,2010
+Holiday Bridge,NSW,2011
+Mona Vale!,NSW,2012
+Bowral!,NSW,2013
+Bathurst & District!,NSW,2015
+Ballina!,NSW,2016
+Bungendore!,NSW,2017
+Ballina Seniors!,NSW,2018
+Batemans Bay!,NSW,2019
+Blue Mountains!,NSW,2020
+Brunswick Valley!,NSW,2021
+Brisbane Water!,NSW,2022
+Byron Bay!,NSW,2023
+Camden Haven Lusc!,NSW,2024
+Central Coast!,NSW,2025
+Charlestown!,NSW,2026
+Coffs Harbour!,NSW,2028
+Cessnock!,NSW,2029
+Coonabarabran!,NSW,2030
+Concord!,NSW,2031
+Castle Hill Country Club - Bridge Group,NSW,2032
+Carnarvon!,NSW,2034
+Community! Bateau Bay,NSW,2035
+Central Coast Leagues!,NSW,2036
+Condobolin!,NSW,2037
+Cowra & District!,NSW,2038
+Cromer!,NSW,2040
+Cheltenham!,NSW,2041
+Bridge With Beauchamp,NSW,2050
+Elanora Country Club,NSW,2058
+Inverell Delvyn!,NSW,2060
+Double Bay Bridge Centre,NSW,2061
+Dora Creek!,NSW,2063
+Easts!,NSW,2065
+Forbes!,NSW,2066
+Finesse!,NSW,2067
+Forest!,NSW,2068
+Forestville Rsl!,NSW,2069
+Glen!,NSW,2070
+Gordon Bridge Centre,NSW,2074
+Glenbrook!,NSW,2075
+Carlingford!,NSW,2077
+Grafton!,NSW,2078
+The Grange Bridge Centre,NSW,2079
+Goulburn!,NSW,2080
+Great Lakes!,NSW,2081
+Griffith Ex-servicemens Club!,NSW,2085
+Kiama & District!,NSW,2086
+Gunnedah!,NSW,2087
+Gulargambone!,NSW,2089
+Harbourview!,NSW,2091
+Hawks Nest!,NSW,2092
+Hawkesbury!,NSW,2093
+Hunter!,NSW,2097
+Hunters Hill!,NSW,2098
+Hurstville!,NSW,2099
+Ingleburn Rsl!,NSW,2100
+Illawarra Bridge Association,NSW,2105
+Killara!,NSW,2106
+Ku-ring-gai!,NSW,2108
+Kings And Queens Bridge,NSW,2112
+Lennox Head!,NSW,2114
+Leeton Soldiers!,NSW,2116
+North Shore!,NSW,2120
+Lismore!,NSW,2123
+Long Reef!,NSW,2125
+Macarthur Collegians!,NSW,2126
+Dubbo!,NSW,2130
+Maitland!,NSW,2133
+Balgowlah-dee Why Rsl!,NSW,2136
+Manly Golf Club Bridge Group,NSW,2138
+Manly Warringah Leagues!,NSW,2140
+Merewether South!,NSW,2142
+Milton!,NSW,2144
+Narrabeen!,NSW,2145
+Mollymook!,NSW,2146
+Moree!,NSW,2149
+Mosman Park!,NSW,2151
+Orange!,NSW,2152
+Mudgee!,NSW,2153
+Muswellbrook!,NSW,2155
+Murwillumbah!,NSW,2158
+Newcastle!,NSW,2160
+Nelson Bay!,NSW,2163
+Narromine & Trangie!,NSW,2168
+Nambucca Valley!,NSW,2170
+New England Bridge Group,NSW,2175
+Bridgefolk,NSW,2178
+North Sydney Leagues!,NSW,2190
+Oxley!,NSW,2195
+Nyngan!,NSW,2197
+Parramatta!,NSW,2200
+Palm Beach!,NSW,2202
+Parkes!,NSW,2205
+Peninsula! - NSW,NSW,2210
+Pennant Hills!,NSW,2213
+Penrith!,NSW,2216
+Port Hacking!,NSW,2220
+Port Stephens!,NSW,2222
+Quick Tricks Bridge Centre,NSW,2223
+Quirindi District Card Club,NSW,2224
+Port Macquarie!,NSW,2225
+Port Macquarie Panthers!,NSW,2226
+Port Macquarie Hastings Bridge Association,NSW,2227
+Bridge Away,NSW,2228
+Randwick!,NSW,2230
+Reef!,NSW,2232
+The Sapphire Coast! ,NSW,2234
+Nowra!,NSW,2235
+Scone!,NSW,2236
+St George Budapest!,NSW,2237
+The St George!,NSW,2238
+Southside!,NSW,2239
+Springwood Contract!,NSW,2240
+Moruya!,NSW,2241
+Social Bridge - Ryde,NSW,2242
+Lake Macquarie!,NSW,2243
+Bridge @ The Bay,NSW,2244
+Riverview!,NSW,2245
+St Mary's!,NSW,2248
+Sydney Chinese!,NSW,2249
+Strathfield!,NSW,2250
+Southern Highlands!,NSW,2251
+Tenterfield!,NSW,2252
+Royal Sydney Golf!,NSW,2253
+Tamworth!,NSW,2255
+Taree!,NSW,2256
+Toronto!,NSW,2257
+Tilligerry!,NSW,2258
+Trumps Bridge Centre,NSW,2259
+Tweed!,NSW,2260
+Tumbarumba!,NSW,2261
+Tumut!,NSW,2262
+Twin Towns!,NSW,2263
+Arv!,NSW,2264
+Turramurra!,NSW,2266
+Wagga Wagga!,NSW,2267
+Wellington!,NSW,2268
+Cex Urunga!,NSW,2269
+Western Suburbs! - NSW,NSW,2270
+Warialda!,NSW,2275
+Windsor!,NSW,2277
+Wollstonecraft!,NSW,2280
+Brickpit At Thornleigh!,NSW,2283
+Thornleigh!,NSW,2285
+Woolgoolga!,NSW,2292
+Yamba!,NSW,2295
+Eventz In Paradise!,NSW,2299
+Victorian Bridge Association Ltd,VIC,3301
+Vba State  Mp Secretary,VIC,3302
+Bairnsdale!,VIC,3308
+Ballarat!,VIC,3309
+Bayside!,VIC,3311
+Beaumaris Bridge Association,VIC,3312
+Benalla!,VIC,3313
+Bendigo!,VIC,3315
+Berwick!,VIC,3317
+Bridge Fanatics,VIC,3318
+Bridgemind,VIC,3319
+Kings And Queens Victoria,VIC,3320
+Caulfield Park!,VIC,3323
+Dendy Park!,VIC,3326
+Donald!,VIC,3330
+Dromana Bridge Centre,VIC,3335
+Eastern Contract Bridge Centre,VIC,3338
+Echuca!,VIC,3340
+Eastern Region Bridge Association,VIC,3344
+Kings And Queens Bridge School,VIC,3345
+Moonee Valley!,VIC,3348
+Federation Of Affiliated!s Of Victoria,VIC,3350
+Frankston!,VIC,3356
+Geelong!,VIC,3360
+Knox!,VIC,3361
+U3a Knox!,VIC,3365
+Alphington Bridge Centre,VIC,3372
+Kattery!,VIC,3375
+Kltc!,VIC,3376
+Lakes Entrance!,VIC,3379
+Macedon Ranges!,VIC,3405
+Mcc!,VIC,3406
+Melbourne Contract Bridge Centre,VIC,3408
+Mount Martha!,VIC,3410
+Melton!,VIC,3412
+Mornington Bridge Group,VIC,3415
+Northern!,VIC,3425
+Ocean Grove!,VIC,3430
+Wangaratta!,VIC,3433
+Patterson Lakes!,VIC,3434
+Paynesville!,VIC,3435
+Peninsula! - Vic,VIC,3437
+Phillip Island!,VIC,3440
+Racv!,VIC,3442
+The Artificial Club,VIC,3444
+Ravens!,VIC,3445
+Royal South Yarra Lawn Tennis!,VIC,3448
+Rye Beach!,VIC,3451
+Sale!,VIC,3455
+Shepparton!,VIC,3460
+Oz!,VIC,3463
+South Gippsland!,VIC,3465
+Sunbury!,VIC,3470
+Tricks And Trumps,VIC,3473
+Theodor Herzl Social Club Bridge Section,VIC,3475
+Torquay!,VIC,3476
+Traralgon!,VIC,3477
+Warrnambool!,VIC,3478
+Mildura U3a!,VIC,3479
+Waverley!,VIC,3480
+Upwey!,VIC,3481
+Whittlesea!,VIC,3482
+Williamstown!,VIC,3483
+Wodonga!,VIC,3486
+Werribee!,VIC,3489
+Yarra Valley!,VIC,3496
+Yarrawonga!,NSW,3497
+Youth! Vic,VIC,3498
+Queensland Bridge Association,QLD,4501
+Queensland Bridge Association,QLD,4502
+Arana Contract!,QLD,4503
+Hervey Bay City!,QLD,4505
+Beenleigh/logan!,QLD,4506
+Broadwater!,QLD,4508
+Redland!,QLD,4510
+Capricorn Contract!,QLD,4513
+Caboolture!,QLD,4515
+Cards Bridge Centre,QLD,4518
+Cleveland Bay!,QLD,4522
+Coolum!,QLD,4523
+Brisbane Bridge Centre,QLD,4528
+Darling Downs!,QLD,4530
+Eastern Suburbs!,QLD,4535
+Helensvale And Southport!,QLD,4540
+Northern Suburbs!,QLD,4545
+Queensland Contract!,QLD,4555
+Redcliffe!,QLD,4560
+Sunnybank Contract!,QLD,4566
+Toowong!,QLD,4572
+Bowen!,QLD,4584
+Bundaberg!,QLD,4587
+Cairns!,QLD,4590
+Caloundra Contract!,QLD,4592
+Dalby!,QLD,4598
+Gold Coast!,QLD,4620
+Goondiwindi Contract!,QLD,4622
+Gympie Contract!,QLD,4625
+Ipswich Contract!,QLD,4630
+Kenmore!,QLD,4632
+Kingaroy Contract!,QLD,4633
+Lockyer!,QLD,4637
+Mackay Contract!,QLD,4640
+Maryborough Contract!,QLD,4645
+Moreton Bribie!,QLD,4650
+Mudgeeraba!,QLD,4652
+Noosa!,QLD,4657
+Proserpine Whitsunday Contract!,QLD,4666
+Roma Contract!,QLD,4670
+Rockhampton Contract!,QLD,4675
+Sanctuary Cove!,QLD,4677
+Eacham!,QLD,4678
+Stanthorpe!,QLD,4679
+Sunshine Coast Contract!,QLD,4680
+Surfers Paradise!,QLD,4682
+Tablelands!,QLD,4683
+Tamborine Mountain!,QLD,4685
+Toowoomba!,QLD,4688
+Townsville!,QLD,4690
+Tully Duplicate!,QLD,4693
+Warwick!,QLD,4696
+Western Suburbs! - Qld,QLD,4698
+Yeppoon!,QLD,4699
+South Australian Bridge Federation,SA,5700
+South Australian Bridge Association,SA,5701
+Adelaide Bridge Centre,SA,5704
+Blue Lake!,SA,5705
+Broken Hill!,NSW,5707
+Bridge In The Barossa,SA,5708
+Bridge In The City,SA,5710
+Gawler & District!,SA,5711
+Mt Gambier!,SA,5713
+Glenelg Contract!,SA,5715
+Port Pirie Contract!,SA,5725
+Reynella!,SA,5730
+Riverland!,SA,5733
+St Vincent Contract!,SA,5738
+Stepbridge,SA,5742
+Whyalla!,SA,5747
+Bridge Association Of Western Australia,WA,6751
+Armadale!,WA,6753
+Albany!,WA,6754
+Busselton!,WA,6755
+Canning District!,WA,6756
+Bunbury!,WA,6757
+City Of Melville!,WA,6758
+Community!,WA,6759
+Dianella Contract!,WA,6760
+Bridgetown!,WA,6761
+Esperance!,WA,6762
+Avon Valley!,WA,6763
+Fremantle!,WA,6764
+Bayswater!,WA,6765
+Geraldton!,WA,6766
+Gosnells District!,WA,6767
+Italian!,WA,6770
+Kendenup!,WA,6771
+Kalamunda Districts!,WA,6772
+Kalgoorlie!,WA,6774
+Kojonup!,WA,6775
+Maccabi Contract!,WA,6776
+Maylands!,WA,6777
+Mandurah!,WA,6778
+Margaret River!,WA,6781
+Rockingham!,WA,6784
+Nedlands!,WA,6785
+South Coast!,WA,6787
+South Perth!,WA,6788
+Swan Districts!,WA,6789
+Village!,WA,6791
+Undercroft!,WA,6792
+Northern Districts!,WA,6793
+West Coast!,WA,6794
+West Australian!,WA,6795
+Tasmanian Bridge Association,TAS,7801
+Burnie!,TAS,7804
+Devonport!,TAS,7809
+Eastern Shore!,TAS,7814
+Kingborough!,TAS,7818
+Launceston!,TAS,7824
+Tamar!,TAS,7844
+Ulverstone!,TAS,7860
+Hobart City!,TAS,7865
+Northern Territory Bridge Association,NT,8901
+Alice Springs!,NT,8910
+Arafura!,NT,8915
+Darwin!,NT,8930
+Palmerston!,NT,8940
+Bridge Club Live Online,UK,8999
